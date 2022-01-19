@@ -1,0 +1,54 @@
+{
+    "locals": "en",
+
+    "EnableAcFunctions": true,
+    
+    "allLogs": true,
+    "postals": true,
+    "weaponLog": true,
+    "inlineField": true,
+
+    "playerId": true,
+    "steamId": true,
+    "steamUrl": true,
+    "discordId": true,
+    "license": true,
+    "license2": true,
+    "ip": false,
+    "playerPing": true,
+
+    "Session": false,
+    "PlayTime": false,
+    "playerHealth": true,
+    "playerArmor": true,
+    "timestamp": true,
+
+    "forceSteam": false,
+
+    "nameChangePerms": "jd.staff",
+    "logHistoryPerms": "jd.staff",
+    "screenshotPerms": "jd.staff",
+    "AntiCheatBypass": "jd.staff",
+
+    "DiscordUpdateNotify": true,
+
+    "userName": "neey_logsystem",
+    "avatar": "https://cdn.discordapp.com/attachments/897496377330921555/933091972216942673/img.png",
+    "communityName": "neey_logsystem",
+    "communityLogo": "https://cdn.discordapp.com/attachments/897496377330921555/933091972216942673/img.png",
+    "footerText": "2020 - 2021 © neey_logsystem",
+    "footerIcon": "https://cdn.discordapp.com/attachments/897496377330921555/933091972216942673/img.png",
+
+    "PrefechGlobalBans": true,
+    "GlobalBanBypass": [],
+
+    "WeaponsNotLogged": [
+        "WEAPON_SNOWBALL",
+        "WEAPON_FIREEXTINGUISHER"
+    ],
+
+    "Commands": {
+        "logs": "LogHistoryCommand",
+        "screenshot": "ScreenshotCommand"
+    }
+}

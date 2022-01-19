@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Digit";
+    src: url("Alien Eclipse.ttf");
+}
+
+html {
+    color: #34495e;
+    font-family: 'Digit';
+}
+
+#wrap {
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    color: white;
+    top: 10%;
+    right: 100px !important;
+}
+
+#cam {
+    text-align: right;
+    font-size: 18px;
+}
+
+#logo {
+    position: absolute;
+    top: -8.0%;
+    right: -91px !important;
+}
+
